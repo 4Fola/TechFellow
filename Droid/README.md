@@ -29,7 +29,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://imgur.com/a/fxvyZOd.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://imgur.com/a/fxvyZOd
 
 GIF created with [ScreenToGif](https://www.screentogif.com/).
 
