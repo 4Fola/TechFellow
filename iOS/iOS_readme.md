@@ -28,9 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='https://imgur.com/dIthng2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<img src='https://imgur.com/dIthng2.gif' title='iOS Tip Calculator Video Walkthrough' width='' alt='iOS Video Walkthrough' />
 
 GIF created with [ScreenToGif](https://www.screentogif.com/).
 
@@ -38,9 +36,11 @@ GIF created with [ScreenToGif](https://www.screentogif.com/).
 
 Describe any challenges encountered while building the app.
 
+Challenges encountered revolves around running macOS on an external windows device and working on a virtual mac.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2021 AOI Inc.
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
