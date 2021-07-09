@@ -51,7 +51,7 @@ Describe any challenges encountered while building the app.
 
 ## Notes
 
-The challenges encountered involves android setup error and most frequently out of memory errors whenever emulator is run. "OpenJDK platform library RAM problem": This creates multiple instances of JDK which continually creates a new process leading to my workstation of 32GB shutting down frequently, issue was resolved by conintuously rebotting or stopping individual processes in order to free up space. Still working on a permanent solution as current fix is not feasible.
+Experienced "Invalid Gradle JDK configuration found. Open Gradle Settings Change JDK location" error; it was resolved by changing plugin version & eventually deleting .idea/gradle.xml & .idea/workspace.xml files.
 
 ## License
 
