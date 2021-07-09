@@ -31,9 +31,9 @@ The following **required** functionalities are completed:
 
 Here's a walkthrough of app:
 
-<img src='FlixsterP.gif' title='Flixster Walkthrough' width='' alt='Flix Walkthrough' />
+<img src='FlixsterP.gif' title='Flixster Walkthrough' width='' alt='Flix in portrait mode' />
 
-<img src='FlixsterL.gif' title='Flixster Walkthrough' width='' alt='Flix Walkthrough' />
+<img src='FlixsterL.gif' title='Flixster Walkthrough' width='' alt='Flix in landscape mode' />
 
 https://imgur.com/a/fxvyZOd.gif
 
