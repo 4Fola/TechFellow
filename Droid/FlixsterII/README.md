@@ -19,9 +19,9 @@
 
 ### App Walkthough GIF
 
+<img src='FlixsterII.gif' title='Flixster II' width='' alt='Flixster II' />
 
-
-<img src="https://imgur.com/8rzKsBH" width=250><br>
+IMGUR: https://imgur.com/8rzKsBH
 
 ### Notes
 
