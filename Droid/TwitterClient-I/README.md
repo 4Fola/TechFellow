@@ -39,6 +39,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes & Challenges
 
+Lots of issues encountered, documented in read me and slack channel. Will keep trying, but wanted to submit prior to deadline. I'm thinking changing tweeter key might resolve issues.
+
 I: Unable to test app on emulator even after rebooting, reinstalling, & changing installation directory. Tried varying API levels between 23 - 30.
 
 <img src='TweetError.gif' title='Error-1' width='' alt='Error-I' /> <br/>
