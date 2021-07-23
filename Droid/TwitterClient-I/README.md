@@ -41,21 +41,21 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 I: Unable to test app on emulator even after rebooting, reinstalling, & changing installation directory. Tried varying API levels between 23 - 30.
 
-<img src='TwitterError.gif' title='Error-1' width='' alt='Error-I' /> <br/>
+<img src='TweetError.gif' title='Error-1' width='' alt='Error-I' /> <br/>
 
-<img src='TwitterError1.gif' title='Error-1' width='' alt='Error-I' /> 
+<img src='TweetError1.gif' title='Error-1' width='' alt='Error-I' /> 
 
 II:  I uninstalled all SDKs, then Android studio, cleared temp files, registry, used CCleaner and ran SFC before reinstalling. All with no luck!
 
-<img src='TwitterError2.gif' title='Error-2' width='' alt='Error-II' /> <br/>
+<img src='TweetError2.gif' title='Error-2' width='' alt='Error-II' /> <br/>
 
 III: All I got so far is the white screen and its been like that for ~90 mins. Bear in mind no other programs or resource intensive application(s) are running, so memory isn't an issue, also note that all codes have been written and no parts are missing or skipped. This is on Pixel API 27.
 
-<img src='TwitterError3.gif' title='Error-3' width='' alt='Error-III' /> <br/>
+<img src='TweetError3.gif' title='Error-3' width='' alt='Error-III' /> <br/>
 
 IV: The problem persisted even with the break point and BuildConfig removed at the direction of the TA. It's been doing the preloader for quite some time.
 
-<img src='TwitterError4gif' title='Error-4' width='' alt='Error-IV' /> 
+<img src='TweetError4gif' title='Error-4' width='' alt='Error-IV' /> 
 
 ## Open-source libraries used
 
