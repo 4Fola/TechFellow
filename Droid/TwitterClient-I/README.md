@@ -55,7 +55,7 @@ III: All I got so far is the white screen and its been like that for ~90 mins. B
 
 IV: The problem persisted even with the break point and BuildConfig removed at the direction of the TA. It's been doing the preloader for quite some time.
 
-<img src='TweetError4gif' title='Error-4' width='' alt='Error-IV' /> 
+<img src='TweetError4.gif' title='Error-4' width='' alt='Error-IV' /> 
 
 ## Open-source libraries used
 
