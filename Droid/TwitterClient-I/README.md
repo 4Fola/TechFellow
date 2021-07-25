@@ -35,6 +35,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='SimpleTweet1.gif' title='Video Walkthrough for SimpleTweet' width='' alt='SimpleTweet1 Video Walkthrough' />
 
+https://submissions.us-east-1.linodeobjects.com/tech_fellow_training/wbI3XJye.gif
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes & Challenges
