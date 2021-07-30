@@ -36,13 +36,16 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='SimpleTweet2.gif' title='Twitter part II' width='' alt='Twitter 2' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+<strong>Describe any challenges encountered while building the app.</strong>
+  - [X] Crashing
+  - Implementing color schemes
+  - Counter not working as intended.
 
 ## Open-source libraries used
 
