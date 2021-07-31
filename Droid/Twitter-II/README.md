@@ -38,13 +38,13 @@ Here's a walkthrough of implemented user stories:
 
 <table width="600" border="0">
   <tr>
-    <td>1</td>
-    <td>2</td>
-    <td>3</td>
+    <td><img src='SimpleTweet2.gif' title='Twitter part II' width='' alt='Twitter 2' /></td>
+    <td><img src='Count2.gif' title='Twitter part II-Counter2' width='' alt='Design 2' /></td>
+    <td><img src='Count1.gif' title='Twitter part II-Counter1' width='' alt='Design 1' /></td>
   </tr>
  </table>
 
-<img src='SimpleTweet2.gif' title='Twitter part II' width='' alt='Twitter 2' />
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
