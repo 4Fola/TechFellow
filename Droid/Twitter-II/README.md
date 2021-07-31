@@ -38,10 +38,10 @@ Here's a walkthrough of implemented user stories:
 
 <table width="600" border="0">
   <tr>
-    <td><img src='SimpleTweet2.gif' title='Twitter part II' width='' alt='Twitter 2' /></td>
-    <td><img src='Count2.gif' title='Twitter part II-Counter2' width='' alt='Design 2' /></td>
-    <td><img src='Count1.gif' title='Twitter part II-Counter1' width='' alt='Design 1' /></td>
-    <td><strong><u>Offline</u></strong> <p> <img src='Offline.gif' title='Twitter part II-Offline' width='' alt='Offline' /></td>
+    <td> <strong><underline>Walkthrough 1</underline></strong> <p> <img src='SimpleTweet2.gif' title='Twitter part II' width='' alt='Twitter 2' /></td>
+    <td> <strong><underline>Character count 1</underline></strong> <p>  <img src='Count2.gif' title='Twitter part II-Counter2' width='' alt='Design 2' /></td>
+    <td> <strong><underline>Character count ALT </underline></strong> <p> <img src='Count1.gif' title='Twitter part II-Counter1' width='' alt='Design 1' /></td>
+    <td><strong> <u>Offline</u> </strong> <p> <img src='Offline.gif' title='Twitter part II-Offline' width='' alt='Offline' /></td>
   </tr>
  </table>
 
