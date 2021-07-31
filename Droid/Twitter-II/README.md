@@ -13,7 +13,7 @@ The following **required** functionality is completed:
   - [X] User can then enter a new tweet and post this to twitter
   - [X] User is taken back to home timeline with **new tweet visible** in timeline
   - [X] Newly created tweet should be manually inserted into the timeline and not rely on a full refresh
-  - [ ] User can **see a counter with total number of characters left for tweet** on compose tweet page
+  - [X] User can **see a counter with total number of characters left for tweet** on compose tweet page
 
 The following **optional** features are implemented:
 
@@ -35,6 +35,14 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
+<table width="600" border="0">
+  <tr>
+    <td>1</td>
+    <td>2</td>
+    <td>3</td>
+  </tr>
+ </table>
 
 <img src='SimpleTweet2.gif' title='Twitter part II' width='' alt='Twitter 2' />
 
