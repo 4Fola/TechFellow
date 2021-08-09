@@ -50,7 +50,7 @@ II: Varying degreee of errors <br>
 III: Parse implementation not working <br>
 IV: Difficulty with API > 29 (never worked) <br>
 V: New release of android arctic fox July 30th release not working with parse <br>
-VI: Camera continuously crashing <br>
+VI: Camera continuously crashing despite changes to cache memory size
 
 ## Open-source libraries used
 
