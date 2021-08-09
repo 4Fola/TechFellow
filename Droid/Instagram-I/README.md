@@ -31,8 +31,8 @@ Here's a walkthrough of implemented user stories:
   <tr>
     <td> <strong> <underline>Sign In</underline></strong> <p>  <img src='IGSignIn.gif' title='Sign In' width='' alt='Sign In' /></td> <br/>
     <td> <strong> <underline>Post</underline></strong> <p> <img src='IGPost.gif' title='IG Post' width='' alt='IG Post' /></td> <br/>
-    <td> <strong> <u>Sign Up</u> </strong> <p> <img src='IGSignUp.gif' title='Sign Up' width='' alt='Sign Up' /></td> <br/> <p>
-    <td> <strong> <u>Back4App</u> </strong> <p> <img src='Back4App.gif' title='Back4App' width='' alt='Back4App' /></td> <br/>
+    <td> <strong> <u>Sign Up</u> </strong> <p> <img src='IGSignUp.gif' title='Sign Up' width='' alt='Sign Up' /></td> </br> <p>
+    <td> <strong> <u>Back4App</u> </strong> <p> <img src='Back4App.gif' title='Back4App' width='' alt='Back4App' /></td> </br>
   </tr>
  </table>
 
