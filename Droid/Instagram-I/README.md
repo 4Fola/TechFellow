@@ -31,7 +31,7 @@ Here's a walkthrough of implemented user stories:
   <tr>
     <td> <strong> <underline>Sign In</underline></strong> <p>  <img src='IGSignIn.gif' title='Sign In' width='' alt='Sign In' /></td>
     <td> <strong> <underline>Post</underline></strong> <p> <img src='IGPost.gif' title='IG Post' width='' alt='IG Post' /></td>
-    <td> <strong> <u>Sign Up</u> </strong> <p> <img src='IGSignUp.gif' title='Sign Up' width='' alt='Sign Up' /></td> </br> <p>
+    <td> <strong> <u>Sign Up</u> </strong> <p> <img src='IGSignUp.gif' title='Sign Up' width='' alt='Sign Up' /></td> <br> <p>
   </tr>
  </table>
  
@@ -45,12 +45,12 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Challenges encountered are:
 
-I: App consistently crashing
-II: Varying degreee of errors
-III: Parse implementation not working
-IV: Difficulty with API > 29 (never worked)
-V: New release of android arctic fox July 30th release not working with parse
-VI: Camera continuously crashing
+I: App consistently crashing <br>
+II: Varying degreee of errors <br>
+III: Parse implementation not working <br>
+IV: Difficulty with API > 29 (never worked) <br>
+V: New release of android arctic fox July 30th release not working with parse <br>
+VI: Camera continuously crashing <br>
 
 ## Open-source libraries used
 
