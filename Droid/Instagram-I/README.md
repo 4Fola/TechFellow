@@ -27,7 +27,15 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<table width="600" border="0">
+  <tr>
+    <td> <strong><underline>Walkthrough 1</underline></strong> <p> <img src='IG1.gif' title='Instagram I' width='' alt='Instagram I' /></td>
+    <td> <strong><underline>Sign In</underline></strong> <p>  <img src='IGsigIn.gif' title='Sign In' width='' alt='Sign In' /></td> <br/>
+    <td> <strong><underline>Post</underline></strong> <p> <img src='IGPost.gif' title='IG Post' width='' alt='IG Post' /></td> <br/>
+    <td><strong> <u>Sign Up</u> </strong> <p> <img src='IGSignUp.gif' title='Sign Up' width='' alt='Sign Up' /></td> <br/>
+    <td><strong> <u>Back4App</u> </strong> <p> <img src='Back4App.gif' title='Back4App' width='' alt='Back4App' /></td> <br/>
+  </tr>
+ </table>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -40,6 +48,7 @@ II: Varying degreee of errors
 III: Parse implementation not working
 IV: Difficulty with API > 29 (never worked)
 V: New release of android arctic fox July 30th release not working with parse
+VI: Camera continuously crashing
 
 ## Open-source libraries used
 
