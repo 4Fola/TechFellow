@@ -1,4 +1,4 @@
-# Project 3 - *Instagram*
+# Project 3 - *Unit 5 Project: Build Instagram from the Ground Up - Part 1*
 
 **Instagram** is a photo sharing app similar to Instagram but using Parse as its backend.
 
@@ -59,7 +59,7 @@ VI: Camera continuously crashing despite changes to cache memory size
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [0000 - 2021] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
