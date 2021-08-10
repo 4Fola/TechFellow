@@ -34,7 +34,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<table width="700" border="0">
+  <tr>
+    <td> <strong><underline>Walkthrough 1</underline></strong> <p> <img src='SimpleTweet2.gif' title='Twitter part II' width='' alt='Twitter 2' /></td>
+    <td> <strong><underline>Character count 1</underline></strong> <p>  <img src='Count2.gif' title='Twitter part II-Counter2' width='' alt='Design 2' /></td>
+    <td> <strong><underline>Character count ALT </underline></strong> <p> <img src='Count1.gif' title='Twitter part II-Counter1' width='' alt='Design 1' /></td>
+    <td><strong> <u>Offline</u> </strong> <p> <img src='Offline.gif' title='Twitter part II-Offline' width='' alt='Offline' /></td>
+  </tr>
+ </table>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
