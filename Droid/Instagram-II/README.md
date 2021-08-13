@@ -48,7 +48,7 @@ GIF created with [ScreenToGif](https://www.screentogif.com).
 Describe any challenges encountered while building the app.
 
 I: Implementing the signup process continually produced errors
-II: Camera crashes repeatedly & a reinsatll done everytime in order to post
+II: Camera crashes repeatedly & a reinsatll done everytime in order to post (see end of gif 2).
 
 ## Open-source libraries used
 
