@@ -36,18 +36,19 @@ Here's a walkthrough of implemented user stories:
 
 <table width="700" border="0">
   <tr>
-    <td> <strong><underline>Walkthrough 1</underline></strong> <p> <img src='SimpleTweet2.gif' title='Twitter part II' width='' alt='Twitter 2' /></td>
-    <td> <strong><underline>Character count 1</underline></strong> <p>  <img src='Count2.gif' title='Twitter part II-Counter2' width='' alt='Design 2' /></td>
-    <td> <strong><underline>Character count ALT </underline></strong> <p> <img src='Count1.gif' title='Twitter part II-Counter1' width='' alt='Design 1' /></td>
-    <td><strong> <u>Offline</u> </strong> <p> <img src='Offline.gif' title='Twitter part II-Offline' width='' alt='Offline' /></td>
+    <td> <strong><underline>View the last 20 posts</underline></strong> <p> <img src='View20.gif' title='Last 20 Posts' width='' alt='Last 20 Posts' /></td>
+    <td> <strong><underline>Switch between different tabs/Error</underline></strong> <p>  <img src='Switch.gif' title='Tab Navigation/Error' width='' alt='Tab Navigation/Error' /></td>
   </tr>
  </table>
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [ScreenToGif](https://www.screentogif.com).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+I: Implementing the signup process continually produced errors
+II: Camera crashes repeatedly & a reinsatll done everytime in order to post
 
 ## Open-source libraries used
 
