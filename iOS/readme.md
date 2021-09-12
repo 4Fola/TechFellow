@@ -27,10 +27,12 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-<img src='https://imgur.com/dIthng2.gif' title='iOS Tip Calculator Video Walkthrough' width='' alt='iOS Video Walkthrough' />
-
-<img src='iOS-PreWork.gif' title='iOS Tip Calculator Video Walkthrough' width='' alt='iOS Video Walkthrough' />
+<table width="600" border="0">
+  <tr>
+    <td> <strong><underline>Walkthrough 1</underline></strong> <p> <img src='https://imgur.com/dIthng2.gif' title='iOS Tip Calculator Video Walkthrough' width='' alt='iOS Video Walkthrough' /> </td>
+    <td> <strong><underline>Character count 1</underline></strong> <p> <img src='iOS-Prework.gif' title='iOS Tip Calculator Video Walkthrough' width='' alt='iOS Video Walkthrough' /> </td>
+  </tr>
+ </table>
 
 GIF created with [ScreenToGif](https://www.screentogif.com/).
 
