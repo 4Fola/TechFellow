@@ -30,7 +30,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://imgur.com/dIthng2.gif' title='iOS Tip Calculator Video Walkthrough' width='' alt='iOS Video Walkthrough' />
 
-<img src='iOS-Tip.gif' title='iOS Tip Calculator Video Walkthrough' width='' alt='iOS Video Walkthrough' />
+<img src='iOS-PreWork.gif' title='iOS Tip Calculator Video Walkthrough' width='' alt='iOS Video Walkthrough' />
 
 GIF created with [ScreenToGif](https://www.screentogif.com/).
 
